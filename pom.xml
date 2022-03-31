@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <spring.boot>2.1.1.RELEASE</spring.boot>
+        <spring.boot>2.5.12</spring.boot>
     </properties>
 
     <dependencies>
